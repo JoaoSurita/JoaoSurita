@@ -2,6 +2,7 @@
 
 <p>
  Sou João Pedro Surita, mas muitos me conhecem apenas como "Surita". Tenho 18 anos, moro em Barra Bonita - SP e atualmente curso o 2° semestre de DSM (Desenvolvimento de Software Multiplataforma) na FATEC Jahu.
+ 
  Desde cedo, sempre tive interesse pelo mundo da tecnologia e, mesmo sendo novo na área, estou constantemente buscando aprender, evoluir e me desafiar.
 Meu foco é desenvolver habilidades que me permitam criar soluções criativas e eficientes, seja no front-end, back-end ou em projetos completos.
 </p>
@@ -30,6 +31,7 @@ Meu foco é desenvolver habilidades que me permitam criar soluções criativas e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo"/>
+  <img width="12" />
 </div>
 
 ###
