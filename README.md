@@ -8,7 +8,7 @@
  Desde cedo, sempre tive interesse pelo mundo da tecnologia e, mesmo sendo novo na área, estou constantemente buscando aprender, evoluir e me desafiar.
 Meu foco é desenvolver habilidades que me permitam criar soluções criativas e eficientes, seja no front-end, back-end ou em projetos completos.
 
- Atualmente estudando PHP e JavaScript. 👨‍💻
+ Atualmente estudando PHP, JavaScript e MySQL. 👨‍💻
 </p>
 
 ###
@@ -31,7 +31,7 @@ Meu foco é desenvolver habilidades que me permitam criar soluções criativas e
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql" />
   </a>
 </p>
 
