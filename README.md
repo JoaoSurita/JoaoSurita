@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou João Pedro Surita! 🚀</h1>
+<h1 align="center">Olá, eu sou João Pedro Surita! 👨‍💻</h1>
 
 <p>
  Sou João Pedro Surita, mas muitos me conhecem apenas como "Surita". Tenho 18 anos, moro em Barra Bonita - SP e atualmente curso o 2° semestre de DSM (Desenvolvimento de Software Multiplataforma) na FATEC Jahu.
@@ -8,7 +8,7 @@
  Desde cedo, sempre tive interesse pelo mundo da tecnologia e, mesmo sendo novo na área, estou constantemente buscando aprender, evoluir e me desafiar.
 Meu foco é desenvolver habilidades que me permitam criar soluções criativas e eficientes, seja no front-end, back-end ou em projetos completos.
 
- Atualmente estudando PHP, JavaScript e MySQL. 👨‍💻
+ Atualmente estudando PHP, JavaScript e MySQL.
 </p>
 
 ###
