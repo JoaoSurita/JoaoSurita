@@ -8,7 +8,7 @@
  Desde cedo, sempre tive interesse pelo mundo da tecnologia e, mesmo sendo novo na área, estou constantemente buscando aprender, evoluir e me desafiar.
 Meu foco é desenvolver habilidades que me permitam criar soluções criativas e eficientes, seja no front-end, back-end ou em projetos completos.
 
- Atualmente estudando PHP, JavaScript e MySQL.
+ Atualmente estudando JavaScript.
 </p>
 
 ###
