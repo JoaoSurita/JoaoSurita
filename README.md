@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou João Pedro Surita! 👨‍💻</h1>
 
 <p>
- Sou João Pedro Surita, mas muitos me conhecem apenas como "Surita". Tenho 18 anos, moro em Barra Bonita - SP e atualmente curso o 3° semestre de DSM (Desenvolvimento de Software Multiplataforma) na FATEC Jahu.
+ Sou João Pedro Surita, mas muitos me conhecem apenas como "Surita". Tenho 19 anos, moro em Barra Bonita - SP e atualmente curso o 3° semestre de DSM (Desenvolvimento de Software Multiplataforma) na FATEC Jahu.
 
 <img align="right" width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/d7aa627e-34c0-4932-9bd9-72c443590556" />
  
