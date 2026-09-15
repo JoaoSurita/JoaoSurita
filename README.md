@@ -8,7 +8,7 @@
  Desde cedo, sempre tive interesse pelo mundo da tecnologia e, mesmo sendo novo na área, estou constantemente buscando aprender, evoluir e me desafiar.
 Meu foco é desenvolver habilidades que me permitam criar soluções criativas e eficientes, seja no frontend, backend ou em projetos completos.
 
- Atualmente estudando C#, .NET e MongoDB.
+ Atualmente estudando Node.js e React
 </p>
 
 ###
