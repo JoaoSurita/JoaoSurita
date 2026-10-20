@@ -8,7 +8,7 @@
  Desde cedo, sempre tive interesse pelo mundo da tecnologia e, mesmo sendo novo na área, estou constantemente buscando aprender, evoluir e me desafiar.
 Meu foco é desenvolver habilidades que me permitam criar soluções criativas e eficientes, seja no frontend, backend ou em projetos completos.
 
- Atualmente estudando Node.js e React
+ Atualmente estudando Node.js, React e Docker
 </p>
 
 ###
@@ -31,7 +31,7 @@ Meu foco é desenvolver habilidades que me permitam criar soluções criativas e
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,cs,dotnet,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,cs,dotnet,mysql,mongodb,nodejs,react,docker" />
   </a>
 </p>
 
